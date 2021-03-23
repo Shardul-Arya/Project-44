@@ -22,19 +22,19 @@ function setup() {
     backgr0und.addImage(backgroundImage)
     backgr0und.scale = 2.5
     block1 = createSprite(600, 700, 1500,20);
-    block1.shapeColor = "grey"
+    block1.shapeColor = "red"
     block2 = createSprite(500, 500, 1000, 20);
-    block2.shapeColor = "grey"
+    block2.shapeColor = "red"
     block3 = createSprite(250, 655, 50, 75);
-    block3.shapeColor = "grey"
+    block3.shapeColor = "red"
     block4 = createSprite(460, 655, 50, 75);
-    block4.shapeColor = "grey"
+    block4.shapeColor = "red"
     block5 = createSprite(670, 655, 50, 75);
-    block5.shapeColor = "grey"
+    block5.shapeColor = "red"
     block6 = createSprite(880, 655, 50, 75);
-    block6.shapeColor = "grey"
+    block6.shapeColor = "red"
     block7 = createSprite(1140, 655, 150, 75);
-    block7.shapeColor = "grey"
+    block7.shapeColor = "red"
     alien = createSprite(100, 650, 30, 50);
     //alien.addImage(alienImage);
     alien.scale = 0.6
